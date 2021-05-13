@@ -1,0 +1,117 @@
+# Blender MTL File: 'f1 2021.blend'
+# Material Count: 11
+
+newmtl Lights
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\blender\\Models\\f1 2021\\Textures\\Rubber\\TexturesCom_DamagedRubber_0.5x0.5_1K_normal.tif
+map_Kd E:\\blender\\Models\\f1 2021\\Textures\\Rubber\\TexturesCom_DamagedRubber_0.5x0.5_1K_albedo.tif
+map_Ns E:\\blender\\Models\\f1 2021\\Textures\\Rubber\\TexturesCom_DamagedRubber_0.5x0.5_1K_roughness.tif
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:\\blender\\Models\\f1 2021\\Textures\\5860f8454fc7f3474eb80db7.png
+
+newmtl Material.002
+Ns 140.746193
+Ka 1.000000 1.000000 1.000000
+Kd 0.485392 0.524539 0.556912
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.003
+Ns 26.851244
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\blender\\Models\\f1 2021\\Textures\\Rubber\\TexturesCom_DamagedRubber_0.5x0.5_1K_normal.tif
+map_Kd E:\\blender\\Models\\f1 2021\\Textures\\Rubber\\TexturesCom_DamagedRubber_0.5x0.5_1K_albedo.tif
+map_Ns E:\\blender\\Models\\f1 2021\\Textures\\Rubber\\TexturesCom_DamagedRubber_0.5x0.5_1K_roughness.tif
+
+newmtl Material.006
+Ns 140.746193
+Ka 1.000000 1.000000 1.000000
+Kd 0.214375 0.556912 0.517963
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.007
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.008
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.009
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.076737 0.076737 0.076737
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
